@@ -1,0 +1,218 @@
+.property-1variant2-child,
+.standout-portfolios1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.property-1variant2-child {
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(180deg, #fff0fd, #ffc2e7 98.9%);
+}
+.standout-portfolios1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.web-flow-masterclass7,
+.web-flow-masterclass9 {
+  position: absolute;
+  height: 12.84%;
+  width: 36.6%;
+  top: 25.34%;
+  right: 52.42%;
+  bottom: 61.82%;
+  left: 10.98%;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-snow);
+}
+.web-flow-masterclass9 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.web-flow-masterclass8 {
+  position: absolute;
+  height: 12.84%;
+  width: 36.6%;
+  top: 25.34%;
+  right: 10.4%;
+  bottom: 61.82%;
+  left: 53%;
+}
+.web-flow-masterclass11,
+.web-flow-masterclass13 {
+  position: absolute;
+  height: 12.84%;
+  width: 36.6%;
+  top: 43.15%;
+  bottom: 44.01%;
+}
+.web-flow-masterclass11 {
+  right: 52.42%;
+  left: 10.98%;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-snow);
+}
+.web-flow-masterclass13 {
+  right: 10.4%;
+  left: 53%;
+}
+.web-flow-masterclass16,
+.web-flow-masterclass18,
+.web-flow-masterclass19 {
+  position: absolute;
+  height: 12.84%;
+  width: 36.6%;
+  top: 60.96%;
+  right: 52.42%;
+  bottom: 26.2%;
+  left: 10.98%;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-snow);
+}
+.web-flow-masterclass18,
+.web-flow-masterclass19 {
+  right: 10.4%;
+  left: 53%;
+}
+.web-flow-masterclass19 {
+  top: 78.77%;
+  bottom: 8.39%;
+}
+.this-is-just {
+  position: absolute;
+  height: 15.24%;
+  width: 67.35%;
+  top: 8.05%;
+  left: 16.4%;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-josefin-slab);
+  color: var(--color-black);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.web-flow-masterclass20 {
+  position: absolute;
+  height: 12.84%;
+  width: 36.6%;
+  top: 78.77%;
+  right: 52.42%;
+  bottom: 8.39%;
+  left: 10.98%;
+}
+.property-1variant2-item {
+  position: absolute;
+  height: 11.99%;
+  width: 10.25%;
+  top: 2.05%;
+  right: 87.99%;
+  bottom: 85.96%;
+  left: 1.76%;
+  border-radius: 50%;
+  background-color: #503e82;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid #16003a;
+  box-sizing: border-box;
+  mix-blend-mode: hard-light;
+}
+.property-1variant2 {
+  position: absolute;
+  top: 856px;
+  left: 20px;
+  width: 683px;
+  height: 584px;
+}
+
+
+
+
+
+
+
+.property-1rectangle-6-proper-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.property-1rectangle-6-proper-item {
+  position: absolute;
+  top: 79px;
+  left: 254px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-blue);
+  box-sizing: border-box;
+  width: 175px;
+  height: 175px;
+  mix-blend-mode: hard-light;
+}
+.courses {
+  height: 11.47%;
+  width: 50.22%;
+  top: 38.53%;
+  left: 4.39%;
+  font-family: var(--font-jomhuria);
+  justify-content: center;
+}
+.courses,
+.div,
+.welcome-to-our {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.welcome-to-our {
+  top: 286px;
+  left: 73px;
+  font-size: var(--font-size-5xl);
+  text-align: left;
+  width: 508px;
+  height: 133px;
+}
+.div {
+  top: 99px;
+  left: 256px;
+  font-size: var(--font-size-77xl);
+  color: var(--color-blue);
+  justify-content: center;
+  width: 172px;
+  height: 134px;
+}
+.property-1rectangle-6-proper {
+  position: absolute;
+  top: 17px;
+  left: 20px;
+  width: 683px;
+  height: 584px;
+  font-size: var(--font-size-109xl);
+  color: var(--color-black);
+  font-family: var(--font-josefin-slab);
+}
+.property-1variant2-parent {
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  width: 100%;
+  height: 1490px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-violet);
+  font-family: var(--font-jejugothic);
+}
